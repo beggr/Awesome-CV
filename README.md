@@ -5,26 +5,7 @@
 
 ## Preview
 
-| [![Résumé](https://raw.githubusercontent.com/beggr/Awesome-CV/master/examples/resume-0.png)](https://raw.githubusercontent.com/beggr/Awesome-CV/master/examples/resume.pdf) 
-
-#### Cover Letter
-
-You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf)
-
-| Without Sections | With Sections |
-|:---:|:---:|
-| [![Cover Letter(Traditional)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-0.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf)  | [![Cover Letter(Awesome)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-1.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf) |
-
-
-## Quick Start
-
-* [**Edit Résumé on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv/tvmzpvdjfqxp)
-* [**Edit Résumé on ShareLaTeX.com**](https://www.sharelatex.com/templates/cv-or-resume/awesome-cv)
-* [**Edit Cover Letter on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv-cover-letter/pfzzjspkthbk)
-* [**Edit Cover Letter on ShareLaTeX.com**](https://www.sharelatex.com/templates/cover-letters/awesome-cv-cover-letter)
-
-**_Note:_ Above services do not guarantee up-to-date source code of Awesome CV**
-
+[![Résumé](https://raw.githubusercontent.com/beggr/Awesome-CV/master/examples/resume-0.png)](https://raw.githubusercontent.com/beggr/Awesome-CV/master/examples/resume.pdf) 
 
 ## How to Use
 
