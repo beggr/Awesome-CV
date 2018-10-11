@@ -20,6 +20,9 @@ $ xelatex {resume|cv|coverletter}.tex
 ## Credit
 
 [**LaTeX**](http://www.latex-project.org)
+
 [**LaTeX FontAwesome**](https://github.com/furl/latex-fontawesome)
+
 [**Roboto**](https://github.com/google/roboto)
+
 [**Source Sans Pro**](https://github.com/adobe-fonts/source-sans-pro)
