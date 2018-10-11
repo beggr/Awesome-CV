@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Résumé](https://raw.githubusercontent.com/beggr/Awesome-CV/master/examples/resume.jpg)](https://raw.githubusercontent.com/beggr/Awesome-CV/master/examples/resume.pdf) 
+[![Résumé](https://raw.githubusercontent.com/beggr/Awesome-CV/master/source/resume.jpg)](https://raw.githubusercontent.com/beggr/Awesome-CV/master/source/resume.pdf) 
 
 ## How to Use
 
