@@ -1,4 +1,4 @@
-## What is Awesome CV?
+## What is Fancy CV?
 
 **Fancy CV** is a LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** and **Cover Letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv) and forked from [Awesome-CV](https://github.com/posquit0/Awesome-CV).
 
