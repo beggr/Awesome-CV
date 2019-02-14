@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.12)  14 FEB 2019 01:41
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.12)  14 FEB 2019 02:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1045,21 +1045,21 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/n' will be
 (Font)              scaled to size 10.0pt on input line 8.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.00014pt on input line 33.
+(Font)              scaled to size 9.00014pt on input line 28.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 33.
+(Font)              scaled to size 6.00009pt on input line 28.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 33.
+(Font)              scaled to size 5.00008pt on input line 28.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.99986pt on input line 33.
+(Font)              scaled to size 8.99986pt on input line 28.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 33.
+(Font)              scaled to size 5.99991pt on input line 28.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 33.
+(Font)              scaled to size 4.99992pt on input line 28.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 33.
+(Font)              scaled to size 6.0pt on input line 28.
 
-Overfull \hbox (94.32791pt too wide) in alignment at lines 3--41
+Overfull \hbox (94.32791pt too wide) in alignment at lines 3--36
 [] [] 
  []
 
@@ -1082,9 +1082,9 @@ able
 t line 25.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 25.
- [1
+) [1
 
-]) [2]
+]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 96.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 96.
  (./resume.aux)
@@ -1096,10 +1096,10 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  39948 strings out of 494865
  785533 string characters out of 6175598
- 998646 words of memory out of 5000000
+ 997646 words of memory out of 5000000
  43349 multiletter control sequences out of 15000+600000
  536215 words of font info for 104 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  72i,11n,89p,797b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.pdf (2 pages).
+Output written on resume.pdf (1 page).
