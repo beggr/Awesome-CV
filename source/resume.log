@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.12)  14 FEB 2019 02:27
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.12)  9 MAR 2019 07:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -160,10 +160,10 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 (/home/andrea/TL/2018/texmf-dist/tex/latex/fontspec/fontspec.sty
 (/home/andrea/TL/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (/home/andrea/TL/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2019-01-28 L3 programming layer (loader) 
+Package: expl3 2019-02-15 L3 programming layer (loader) 
 
 (/home/andrea/TL/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2019-01-28 L3 programming layer (code)
+Package: expl3 2019-02-15 L3 programming layer (code)
 \c_max_int=\count97
 \l_tmpa_int=\count98
 \l_tmpb_int=\count99
@@ -308,7 +308,7 @@ Package: expl3 2019-01-28 L3 programming layer (code)
 \l__coffin_scaled_width_dim=\dimen147
 )
 (/home/andrea/TL/2018/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
-File: l3xdvipdfmx.def 2019-01-28 v L3 Experimental driver: xdvipdfmx
+File: l3xdvipdfmx.def 2019-02-15 v L3 Experimental driver: xdvipdfmx
 \g__driver_image_int=\count176
 \g__driver_pdf_object_int=\count177
 ))
@@ -355,11 +355,11 @@ LaTeX Info: Redefining \em on input line 4089.
 LaTeX Info: Redefining \emph on input line 4114.
 ))
 (/home/andrea/TL/2018/texmf-dist/tex/latex/unicode-math/unicode-math.sty
-Package: unicode-math 2018/07/29 vv0.8m Unicode maths in XeLaTeX and LuaLaTeX
+Package: unicode-math 2019/02/15 v0.8n Unicode maths in XeLaTeX and LuaLaTeX
 
 (/home/andrea/TL/2018/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
-Package: unicode-math-xetex 2018/07/29 vv0.8m Unicode maths in XeLaTeX and LuaL
-aTeX
+Package: unicode-math-xetex 2019/02/15 v0.8n Unicode maths in XeLaTeX and LuaLa
+TeX
 
 (/home/andrea/TL/2018/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2018-10-17 LaTeX2e option processing using LaTeX3 keys
@@ -1009,15 +1009,15 @@ LaTeX Info: Redefining \nameref on input line 73.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 10.95015pt on input line 77.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.67863pt on input line 77.
+(Font)              scaled to size 7.6651pt on input line 77.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.45398pt on input line 77.
+(Font)              scaled to size 5.47508pt on input line 77.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 10.94983pt on input line 77.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.6784pt on input line 77.
+(Font)              scaled to size 7.66487pt on input line 77.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.45381pt on input line 77.
+(Font)              scaled to size 5.47491pt on input line 77.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 7.6pt on input line 77.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
@@ -1044,22 +1044,8 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 8.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/n' will be
 (Font)              scaled to size 10.0pt on input line 8.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.00014pt on input line 28.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 28.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 28.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.99986pt on input line 28.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 28.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 28.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 28.
 
-Overfull \hbox (94.32791pt too wide) in alignment at lines 3--36
+Overfull \hbox (12.7679pt too wide) in alignment at lines 3--31
 [] [] 
  []
 
@@ -1067,21 +1053,21 @@ Overfull \hbox (94.32791pt too wide) in alignment at lines 3--36
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <9> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 25.
+t line 26.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 25.
+(Font)              scaled to size 9.0pt on input line 26.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 25.
+(Font)              scaled to size 8.0pt on input line 26.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 25.
+(Font)              scaled to size 8.0pt on input line 26.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 25.
+(Font)              scaled to size 8.0pt on input line 26.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 25.
+t line 26.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 25.
+(Font)              scaled to size 8.0pt on input line 26.
 ) [1
 
 ]
@@ -1094,12 +1080,12 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
  ) 
 Here is how much of TeX's memory you used:
- 39948 strings out of 494865
- 785533 string characters out of 6175598
- 997646 words of memory out of 5000000
- 43349 multiletter control sequences out of 15000+600000
- 536215 words of font info for 104 fonts, out of 8000000 for 9000
+ 39951 strings out of 494865
+ 785194 string characters out of 6175598
+ 998981 words of memory out of 5000000
+ 43364 multiletter control sequences out of 15000+600000
+ 534909 words of font info for 92 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 72i,11n,89p,797b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,11n,109p,797b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume.pdf (1 page).
