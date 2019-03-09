@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.12)  9 MAR 2019 07:48
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.12)  9 MAR 2019 08:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1053,21 +1053,21 @@ Overfull \hbox (12.7679pt too wide) in alignment at lines 3--31
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <9> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 26.
+t line 25.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 26.
+(Font)              scaled to size 9.0pt on input line 25.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 26.
+(Font)              scaled to size 8.0pt on input line 25.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 26.
+(Font)              scaled to size 8.0pt on input line 25.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 26.
+(Font)              scaled to size 8.0pt on input line 25.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 26.
+t line 25.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 26.
+(Font)              scaled to size 8.0pt on input line 25.
 ) [1
 
 ]
@@ -1082,7 +1082,7 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  39951 strings out of 494865
  785194 string characters out of 6175598
- 998981 words of memory out of 5000000
+ 997982 words of memory out of 5000000
  43364 multiletter control sequences out of 15000+600000
  534909 words of font info for 92 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
